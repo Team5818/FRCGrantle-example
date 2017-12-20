@@ -1,0 +1,4 @@
+plugins {
+    id "org.rivierarobotics.frcgrantle" version "0.0.13"
+}
+grantle.packageBase = 'org.rivierarobotics.robot'
